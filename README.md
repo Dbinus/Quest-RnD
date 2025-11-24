@@ -8,7 +8,7 @@ Website form sederhana untuk mengambil data feedback dari user, mengolah dan men
 Clone the project
 
 ```bash
-  gh repo clone Dbinus/Quest-RnD
+  git clone https://github.com/Dbinus/Quest-RnD.git
 ```
 
 Go to the project directory
