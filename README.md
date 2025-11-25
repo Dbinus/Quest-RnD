@@ -3,6 +3,8 @@
 Quest Rolling Week RnD 37 BNCC.
 
 Website form sederhana untuk mengambil data feedback dari user, mengolah dan mengedit hasil feedback user.
+###### These files are minified, to unminify, you can put the files in [unminify.com](https://unminify.com) or use other unminify tools.
+
 ## Run Locally
 
 Clone the project
